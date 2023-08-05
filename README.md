@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+
+I am Sean Deery, a Data Scientist pursuing my Master's in Applied Data Science, expecting to graduate in Spring 2024. I enjoy working on interesting data analysis projects and creating applications with prediction tools.
+
+Outside of tech, I enjoy staying active and getting outside. I love the game of basketball and playing pick-up games when I can, and I started backpacking in 2022. My partner and I completed the Pemi Loop in New Hampshire in June 2023 as our first big backpacking trip.
+
