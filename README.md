@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I am Sean Deery, a Data Scientist pursuing my Master's in Applied Data Science, expecting to graduate in Spring 2024. I enjoy working on interesting data analysis projects and creating applications with prediction tools.
+I support clients with network and communication challenges and ensure their systems run smoothly. With thousands of support tickets under my belt and a 98% positive customer feedback rate, I've developed a solid ability to troubleshoot and resolve issues effectively. My work spans from configuring equipment to leading installations on various platforms, always striving to make the technical aspects as seamless as possible for our clients.
 
-Outside of tech, I enjoy staying active and getting outside. I love the game of basketball and playing pick-up games when I can, and I started backpacking in 2022. My partner and I completed the Pemi Loop in New Hampshire in June 2023 as our first big backpacking trip.
+I'm particularly fascinated by how data analysis and machine learning can uncover valuable insights. I enjoy diving into exploratory data analysis (EDA) and applying these methods to solve real-world problems. Recently, I've been exploring the potential of AI and Generative AI to enhance client solutions and boost operational efficiency.
 
+Collaborating with a skilled team, I tackle complex problems and stay up-to-date with the latest in cloud and data science technologies. My goal is to make sure client operations run smoothly, and it's a challenge I look forward to every day.
