@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I am a technical support analyst focused on providing a great customer experience. My work includes configuring network equipment, leading installations, analyzing networks to resolve issues, and working directly with customers to ensure their phone systems provide as much value as possible.
+I’m an Applied Data Scientist with 8 years of experience studying AI and a Master’s degree in Applied Data Science. At Votacall, a cloud VoIP provider, I lead the company’s AI initiatives and am laying the foundation for its AI-first product strategy.
 
-Lately, my learning has been focused on AI engineering. In April 2024, I earned my Master’s degree in Applied Data Science from Syracuse University. During the program, I worked on projects using classical machine learning techniques to solve real-world business problems. For example, I developed a sentiment analysis tool for financial news articles to assist stock traders and created a churn prediction model for subscription-based telecom companies.
+My work includes:
 
-Since graduating, I’ve shifted my focus to generative AI approaches like Retrieval-Augmented Generation (RAG) and AI Agents. I’m particularly interested in building solutions that help businesses extract value from their unstructured data. For instance, a generative AI-powered chatbot could read and understand company documentation, enabling it to quickly and accurately answer user questions.
+- Delivering strategic AI market analysis, recommendations, and demos to executive leadership
+- Leading evaluations of white-label voice AI agent platforms such as Synthflow and Vapi
+- Developing a call reporting AI assistant using OpenAI's Python SDK, Gradio, MongoDB, and Pandas
+- Creating and managing the VCon server pipeline to analyze call records from Netsapiens and store them in MongoDB
 
-As a practitioner in AI and data science, I’m always open to connecting with like-minded professionals to share ideas, collaborate on projects, or explore new opportunities. If our interests align, feel free to reach out—I’d love to connect!
+One of the most valuable things I do is evaluate AI systems using LLM-as-a-Judge and golden dataset techniques, and then translate those results into actionable insights for the business. If you're working on similar problems or just interested in AI for voice communications, feel free to connect. I’m excited to keep expanding my impact as a technical AI leader and continue building tools that power intelligent voice solutions.
